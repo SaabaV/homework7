@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
     'home_work1',
+    'myapp',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
